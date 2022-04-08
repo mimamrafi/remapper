@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>remapper.png</file>
+        <file>../../remapper.ico</file>
+    </qresource>
+</RCC>
